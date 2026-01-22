@@ -1,6 +1,6 @@
 👋 Sobre mim
 
-Olá! Meu nome é **Matheus**, tenho 22 anos. Sou estudante de **Tecnologia em Ciência de Dados** e estou em **transição de carreira para a área de dados.** Sou apaixonado por tecnologia, programação e jogos, e tenho grande interesse em **transformar dados em insights que apoiem decisões estratégicas.**
+Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Tecnologia em Ciência de Dados** e estou em **transição de carreira para a área de dados.** Sou apaixonado por tecnologia, programação e jogos, e tenho grande interesse em **transformar dados em insights que apoiem decisões estratégicas.**
 
 - 🚀 Experiência no **mundo corporativo administrativo,** com visão de processos e negócio.
 
