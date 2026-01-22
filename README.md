@@ -19,7 +19,7 @@ Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Tecnologia em Ciência de D
 
 📌 Objetivo: atuar como Analista de Dados, evoluindo futuramente para Cientista de Dados.
 
-- Como habilidade complementar 💭
+- 💭 Como habilidade complementar, também estou estudando: 
 
 🧩 Conhecimentos básicos em Front-end (HTML, CSS) para criação de interfaces simples e apoio à visualização de dados.
 
