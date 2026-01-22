@@ -2,13 +2,13 @@
 
 Olá! Meu nome é **Matheus**, sou estudante de **Tecnologia em Ciência de Dados** e estou em **transição de carreira para a área de dados.** Sou apaixonado por tecnologia, programação e jogos, e tenho grande interesse em **transformar dados em insights que apoiem decisões estratégicas.**
 
-- 🚀 Experiência no **mundo corporativo administrativo,** com visão de processos e negócio
+- 🚀 Experiência no **mundo corporativo administrativo,** com visão de processos e negócio.
 
 - 💻 Conhecimentos em **Python, SQL e Excel,** aplicados à análise de dados.
 
-- 📊 Foco em **análise de dados, automação e visualização**
+- 📊 Foco em **análise de dados, automação e visualização**.
 
-- 🎯 Em constante aprendizado e desenvolvimento na área de dados
+- 🎯 Em constante aprendizado e desenvolvimento na área de dados.
 
 - 🛠️ Atualmente estudando e utilizando:
 
