@@ -1,6 +1,6 @@
 👋 Sobre mim
 
-Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de Dados para ADS** e estou em **transição de carreira para a área de dados.** Sou apaixonado por tecnologia, programação e jogos, e tenho grande interesse em **transformar dados em insights que apoiem decisões estratégicas.**
+Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de Dados para ADS** e estou em **transição de carreira para a área de dados.** Sou apaixonado por tecnologia, programação e jogos. 
 
 - 🚀 Experiência no **mundo corporativo administrativo,** com visão de processos e negócio.
 
