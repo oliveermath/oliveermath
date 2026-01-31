@@ -1,6 +1,6 @@
 👋 Sobre mim
 
-Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Tecnologia em Ciência de Dados** e estou em **transição de carreira para a área de dados.** Sou apaixonado por tecnologia, programação e jogos, e tenho grande interesse em **transformar dados em insights que apoiem decisões estratégicas.**
+Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de Dados para ADS** e estou em **transição de carreira para a área de dados.** Sou apaixonado por tecnologia, programação e jogos, e tenho grande interesse em **transformar dados em insights que apoiem decisões estratégicas.**
 
 - 🚀 Experiência no **mundo corporativo administrativo,** com visão de processos e negócio.
 
@@ -17,7 +17,7 @@ Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Tecnologia em Ciência de D
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-📌 Objetivo: atuar como Analista de Dados, evoluindo futuramente para Cientista de Dados.
+📌 Objetivo: atuar como Analista de Dados, evoluindo futuramente para Engenheiro de Dados.
 
 - 💭 Como habilidade complementar, também estou estudando: 
 
@@ -30,4 +30,3 @@ Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Tecnologia em Ciência de D
  <img width="47" height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
 
-  
