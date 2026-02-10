@@ -1,14 +1,18 @@
 👋 Sobre mim
 
-Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de Dados para ADS** e estou em **transição de carreira para a área de dados.** Sou apaixonado por tecnologia, programação e jogos. 
+Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de Dados para ADS** e estou em **transição de carreira para a área de desenvolvedor Back-End.** 
+
+- Sou apaixonado por tecnologia, programação e jogos. 
 
 - 🚀 Experiência no **mundo corporativo administrativo,** com visão de processos e negócio.
 
-- 💻 Conhecimentos em **Python, SQL e Excel,** aplicados à análise de dados.
+- 💻 Conhecimentos em Back-End com **Python, SQL**
 
-- 📊 Foco em **análise de dados, automação e visualização**.
+- 📊 Experiência prática na construção de APIs, integração com bancos de dados e boas práticas de desenvolvimento.
 
-- 🎯 Em constante aprendizado e desenvolvimento na área de dados.
+- 💭 Estudando Engenharia de Dados: ETL, pipelines e automação
+
+- 🎯 Em constante aprendizado e desenvolvimento técnica
 
 - 🛠️ Atualmente estudando e utilizando:
 
@@ -17,11 +21,11 @@ Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de 
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-📌 Objetivo: atuar como Analista de Dados, evoluindo futuramente para Engenheiro de Dados.
+📌 Objetivo: atuar como Desenvolvedor Back-End, evoluindo futuramente para Engenheiro de Dados.
 
 - 💭 Como habilidade complementar, também estou estudando: 
 
-🧩 Conhecimentos básicos em Front-end (HTML, CSS) para criação de interfaces simples e apoio à visualização de dados.
+🧩 Conhecimentos básicos em Front-end (HTML, CSS) para criação de interfaces simples até mais avançadas.
 
   <img width="47" height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width="47" height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 ##
