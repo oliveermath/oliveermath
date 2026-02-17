@@ -17,7 +17,7 @@ Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de 
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-📌 Objetivo: atuar como Desenvolvedor Back-End, evoluindo futuramente para Engenheiro de Dados.
+📌 Objetivo: atuar como Desenvolvedor Back-End.
 
 - 💭 Como habilidade complementar, também estou estudando: 
 
