@@ -8,17 +8,13 @@ Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de 
 
 - 💻 Conhecimentos em Back-End com **Python, SQL**
 
-- 📊 Experiência prática na construção de APIs, integração com bancos de dados e boas práticas de desenvolvimento.
-
 - 💭 Estudando Engenharia de Dados: ETL, pipelines e automação
 
-- 🎯 Em constante aprendizado e desenvolvimento técnica
+- 🎯 Em constante aprendizado e desenvolvimento técnica.
 
 - 🛠️ Atualmente estudando e utilizando:
 
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
 📌 Objetivo: atuar como Desenvolvedor Back-End, evoluindo futuramente para Engenheiro de Dados.
