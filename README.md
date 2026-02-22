@@ -7,7 +7,7 @@ Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de 
 - 🚀 Experiência no **mundo corporativo administrativo,** com visão de processos e negócio.
 
 - 💻 Conhecimentos em Back-End com **Python, SQL**
-- 
+  
 - 🎯 Em constante aprendizado e desenvolvimento técnica.
 
 - 🛠️ Atualmente estudando e utilizando:
