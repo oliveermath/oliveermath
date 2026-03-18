@@ -1,6 +1,6 @@
 👋 Sobre mim
 
-Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de Dados para ADS** e estou em **transição de carreira para a área de desenvolvedor Back-End.** 
+Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de Dados para ADS** e estou em **transição de carreira para a área de Análise de Dados**
 
 - Sou apaixonado por tecnologia, programação e jogos. 
 
@@ -15,7 +15,7 @@ Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de 
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-📌 Objetivo: atuar como Desenvolvedor Back-End.
+📌 Objetivo: Atuar como Analista de Dados, aplicando automação com Python e modelagem SQL para gerar valor ao negócio, com foco em evoluir para a Engenharia de Dados
 
  ### - Você pode me encontrar em: 
   <a href="https://www.linkedin.com/in/matheus-de-oliveira-santos-42408a22a/">
