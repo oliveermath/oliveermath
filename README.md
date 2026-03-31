@@ -1,12 +1,12 @@
 👋 Sobre mim
 
-Oi! Sou o **Matheus**, tenho 22 anos. Estudante **em transição de Ciência de Dados para ADS** e estou em **Atualmente migrando para ADS e construindo minha carreira na área de Dados (Análise & Engenharia)**
+Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Análise e Desenvolvimento de Sistemas** e **atualmente estou construindo minha carreira na área de Dados (Análise & Engenharia de Dados)**
 
 - Sou apaixonado por tecnologia, programação e jogos. 
 
 - 🚀 Experiência no **mundo corporativo administrativo,** com visão de processos e negócio.
 
-- 💻 Conhecimentos em Back-End com **Python, SQL**
+- 💻 Conhecimentos em **Python, SQL**
   
 - 🎯 Em constante aprendizado e desenvolvimento técnica.
 
