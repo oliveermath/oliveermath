@@ -1,6 +1,6 @@
 👋 Sobre mim
 
-Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Análise e Desenvolvimento de Sistemas** e **atualmente estou construindo minha carreira na área de Dados (Análise & Engenharia de Dados)**
+Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Tecnologia em Ciências de Dados** e **atualmente estou construindo minha carreira na área de Dados (Análise & Engenharia de Dados)**
 
 - Sou apaixonado por tecnologia, programação e jogos. 
 
