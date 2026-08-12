@@ -1,12 +1,12 @@
 👋 Sobre mim
 
-Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Tecnologia em Ciências de Dados** e **atualmente estou construindo minha carreira na área de Dados (Análise & Engenharia de Dados)**
+Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Tecnologia em Ciências de Dados** e **atualmente estou construindo minha carreira na área de Dados (Analytics Engineer & Data Engineer)**
 
 - Sou apaixonado por tecnologia, programação e jogos. 
 
 - 🚀 Experiência no **mundo corporativo administrativo,** com visão de processos e negócio.
 
-- 💻 Conhecimentos em **Python, SQL**
+- 💻 Conhecimentos em **Python, SQL, Power BI, Excel**
   
 - 🎯 Em constante aprendizado e desenvolvimento técnica.
 
