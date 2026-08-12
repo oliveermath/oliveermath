@@ -1,6 +1,6 @@
 👋 Sobre mim
 
-Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Tecnologia em Ciências de Dados** e **atualmente estou construindo minha carreira na área de Dados (Analytics Engineer & Data Engineer)**
+Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Tecnologia em Ciências de Dados** e **atualmente estou construindo minha carreira na área de Dados (Analytics Engineer)**
 
 - Sou apaixonado por tecnologia, programação e jogos. 
 
@@ -15,7 +15,7 @@ Oi! Sou o **Matheus**, tenho 22 anos. Estudante de **Tecnologia em Ciências de 
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-📌 Objetivo: Atuar como Analista de Dados, aplicando automação com Python e modelagem SQL para gerar valor ao negócio, com foco em evoluir para a Engenharia de Dados
+📌 Objetivo: Construir carreira como Analytics Engineer, com foco em SQL, Python, modelagem de dados e transformação de dados para gerar valor ao negócio.
 
  ### - Você pode me encontrar em: 
   <a href="https://www.linkedin.com/in/matheus-de-oliveira-santos-42408a22a/">
