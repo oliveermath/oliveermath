@@ -23,6 +23,6 @@ Tenho interesse em **SQL, Python, modelagem de dados, transformação de dados e
 
 ### 📫 Você pode me encontrar em:
 
-<a href="[https://www.linkedin.com/in/matheus-de-oliveira-santos-42408a22/](https://www.linkedin.com/in/matheus-de-oliveira-santos-42408a22a/)">
+<a href="https://www.linkedin.com/in/matheus-de-oliveira-santos-42408a22a/">
 <img width="47" height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
