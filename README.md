@@ -1,6 +1,6 @@
 # 👋 Sobre mim
 
-Oi! Sou o **Matheus**, tenho 22 anos e sou estudante de **Tecnologia em Ciência de Dados**.
+Oi! Sou o **Matheus**, tenho 23 anos e sou estudante de **Tecnologia em Ciência de Dados**.
 
 Atualmente, estou construindo minha carreira na área de **Dados**, com interesse em **Data Analytics e Analytics Engineering**.
 
