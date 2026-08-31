@@ -13,7 +13,7 @@ Atualmente, estou construindo minha carreira na área de **Dados**, com interess
 
 ### 🛠️ Tecnologias
 
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> img src="https://skillicons.dev/icons?i=excel,powerbi
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> <img src="https://skillicons.dev/icons?i=excel,powerbi>
 
 ### 🎯 Objetivo
 
