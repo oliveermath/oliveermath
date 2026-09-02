@@ -6,7 +6,7 @@ Atualmente, estou construindo minha carreira na área de **Dados**, com interess
 
 * 🚀 Experiência no **mundo corporativo administrativo**, desenvolvendo uma visão de processos, organização e negócio.
 * 💻 Conhecimentos em **Python, SQL, Power BI e Excel**.
-* 🧠 Atualmente aprofundando meus conhecimentos em **análise de dados, SQL, Python, modelagem e transformação de dados**.
+* 🧠 Atualmente aprofundando meus conhecimentos em **SQL, Python, modelagem e transformação de dados**.
 * 🤖 Também estou estudando **Inteligência Artificial** e buscando entender como aplicá-la ao universo de Dados.
 * 🎮 Apaixonado por **tecnologia, programação e jogos**.
 * 📚 Em constante aprendizado e desenvolvimento técnico.
