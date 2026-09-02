@@ -17,9 +17,9 @@ Atualmente, estou construindo minha carreira na área de **Dados**, com interess
 
 ### 🎯 Objetivo
 
-Construir minha carreira na área de **Dados**, começando por uma oportunidade em **Análise de Dados ou BI** e, ao longo da minha evolução profissional, avançar para **Analytics Engineering**.
+Construir minha carreira na área de **Dados**, começando por uma oportunidade em **Análise de Dados ou BI** e, ao longo da minha evolução profissional, avançar para **Data Engineering**.
 
-Tenho interesse em **SQL, Python, modelagem de dados, transformação de dados e soluções orientadas ao negócio**.
+Tenho interesse em **SQL, Python, modelagem de dados, transformação de dados e construção de sistemas voltados a dados.**.
 
 ### 📫 Você pode me encontrar em:
 
