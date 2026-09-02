@@ -2,7 +2,7 @@
 
 Oi! Sou o **Matheus**, tenho 23 anos e sou estudante de **Tecnologia em Ciência de Dados**.
 
-Atualmente, estou construindo minha carreira na área de **Dados**, com interesse em **Analytics Engineering**.
+Atualmente, estou construindo minha carreira na área de **Dados**, com interesse em **Data Engineering**.
 
 * 🚀 Experiência no **mundo corporativo administrativo**, desenvolvendo uma visão de processos, organização e negócio.
 * 💻 Conhecimentos em **Python, SQL, Power BI e Excel**.
