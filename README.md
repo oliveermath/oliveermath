@@ -13,7 +13,8 @@ Atualmente, estou construindo minha carreira na área de **Dados**, com foco em 
 
 ### 🛠️ Tecnologias
 
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> <img width="1248" height="691" alt="image" src="https://github.com/user-attachments/assets/5b7fe6f2-b8c0-4717-ab7b-7629a8b2e689" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1e4faa03-f620-4377-a365-6a367775674e" />
+
 
 
 ### 🎯 Objetivo
