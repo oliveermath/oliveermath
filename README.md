@@ -2,7 +2,7 @@
 
 Oi! Sou o **Matheus**, tenho 23 anos e sou estudante de **Tecnologia em Ciência de Dados**.
 
-Atualmente, estou construindo minha carreira na área de **Dados**, com foco em Análise de Dados e futuramente **Data Engineering**.
+Atualmente, estou construindo minha carreira na área de **Dados**, com foco em **Análise de Dados**.
 
 * 🚀 Experiência no **mundo corporativo administrativo**, desenvolvendo uma visão de processos, organização e negócio.
 * 💻 Conhecimentos em **Python, SQL, Power BI e Excel**.
@@ -13,15 +13,15 @@ Atualmente, estou construindo minha carreira na área de **Dados**, com foco em 
 
 ### 🛠️ Tecnologias
 
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1e4faa03-f620-4377-a365-6a367775674e" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
 
 
 
 ### 🎯 Objetivo
 
-Construir minha carreira na área de **Dados**, começando por uma oportunidade em **Análise de Dados ou BI** e, ao longo da minha evolução profissional, avançar para **Data Engineering**.
+Construir minha carreira na área de **Dados**, começando por uma oportunidade em **Análise de Dados ou business intelligence**.
 
-Tenho interesse em **SQL, Python, modelagem de dados, transformação de dados e construção de sistemas voltados a dados.**.
+Tenho interesse em **SQL, Python, Power Bi e Excel, modelagem de dados, transformação de dados e construção de sistemas voltados a dados.**.
 
 ### 📫 Você pode me encontrar em:
 
